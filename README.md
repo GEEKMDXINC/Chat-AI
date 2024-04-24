@@ -47,7 +47,7 @@ runtime - ⏱️ Check Bot's Alive Time
 # Heroku Deploy
 [`Heroku Deploy Button`](https://heroku.com/deploy?template=https://github.com/Lazack28/CHAT-AI)<br><br>
 
-
+### CREDIT TO MR NIMA
 
 # 
 
